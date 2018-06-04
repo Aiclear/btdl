@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/delete.png</file>
+        <file>icons/downarrow.png</file>
+        <file>icons/exit.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/resume.png</file>
+        <file>icons/uparrow.png</file>
+        <file>icons/cdelete.png</file>
+        <file>icons/delete-file.png</file>
+        <file>icons/open_file.png</file>
+        <file>icons/download1.png</file>
+        <file>icons/p2p.png</file>
+        <file>icons/about.png</file>
+        <file>icons/btx.png</file>
+    </qresource>
+</RCC>
